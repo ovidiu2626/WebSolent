@@ -1,0 +1,19 @@
+cd Documents
+
+cd WebSolent
+
+git init (to initise the git)
+
+git status
+
+*red files means that they are not in git yet
+
+git add -A (add all the files from folder)
+
+git status
+
+*now all the file are green, OK
+
+git commit -m "Added style to image"  (give a message what changes been done)
+
+git log  (to see all the changes that been made)
