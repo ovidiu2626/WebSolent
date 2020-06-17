@@ -1,0 +1,170 @@
+
+C:\Users\OVIDIU>cd D:\University\YEAR 1\5. Web Technology
+
+C:\Users\OVIDIU>cd document
+The system cannot find the path specified.
+
+C:\Users\OVIDIU>cd documents
+
+C:\Users\OVIDIU\Documents>cd web_solent
+
+C:\Users\OVIDIU\Documents\web_solent>cd..
+
+C:\Users\OVIDIU\Documents>cd Web_Solent
+
+C:\Users\OVIDIU\Documents\Web_Solent>git init
+Initialized empty Git repository in C:/Users/OVIDIU/Documents/Web_Solent/.git/
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        week1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\OVIDIU\Documents\Web_Solent>git add -A
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   week1/images/trump.jpg
+        new file:   week1/index.html
+
+
+C:\Users\OVIDIU\Documents\Web_Solent>commit -m "Saved Trump Picture"
+'commit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\OVIDIU\Documents\Web_Solent>git commit -m "Saved Trump Picture"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'OVIDIU@DESKTOP-BSFREKB.(none)')
+
+C:\Users\OVIDIU\Documents\Web_Solent>git config --global user.email "ovidiu.mocsi@gmail.com"
+
+C:\Users\OVIDIU\Documents\Web_Solent>git config --global user.name "OVIDIU"
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   week1/images/trump.jpg
+        new file:   week1/index.html
+
+-
+C:\Users\OVIDIU\Documents\Web_Solent>git commit -m "Saved Trump Picture"
+[master (root-commit) e6eed86] Saved Trump Picture
+ 2 files changed, 14 insertions(+)
+ create mode 100644 week1/images/trump.jpg
+ create mode 100644 week1/index.html
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\OVIDIU\Documents\Web_Solent>git log
+commit e6eed86a4611b44f1a5cef58914f29ceadc41dd8 (HEAD -> master)
+Author: OVIDIU <ovidiu.mocsi@gmail.com>
+Date:   Wed Jun 10 14:58:20 2020 +0100
+
+    Saved Trump Picture
+
+C:\Users\OVIDIU\Documents\Web_Solent>git config --global user.email "5mocso49@solent.ac.uk"
+
+C:\Users\OVIDIU\Documents\Web_Solent>git log
+commit e6eed86a4611b44f1a5cef58914f29ceadc41dd8 (HEAD -> master)
+Author: OVIDIU <ovidiu.mocsi@gmail.com>
+Date:   Wed Jun 10 14:58:20 2020 +0100
+
+    Saved Trump Picture
+
+C:\Users\OVIDIU\Documents\Web_Solent>git config --global user.email "5mocso49@solent.ac.uk"
+
+C:\Users\OVIDIU\Documents\Web_Solent>git config --global user.name "OVIDIU"
+
+C:\Users\OVIDIU\Documents\Web_Solent>git commit
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   week1/index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   week1/index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\OVIDIU\Documents\Web_Solent>git init
+Reinitialized existing Git repository in C:/Users/OVIDIU/Documents/Web_Solent/.git/
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   week1/index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\OVIDIU\Documents\Web_Solent>git add -A
+
+C:\Users\OVIDIU\Documents\Web_Solent>commit -m "Saved Trump Picture"
+'commit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   week1/index.html
+
+
+C:\Users\OVIDIU\Documents\Web_Solent>git add -A
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   week1/index.html
+
+
+C:\Users\OVIDIU\Documents\Web_Solent>git add -A
+
+C:\Users\OVIDIU\Documents\Web_Solent>commit -m "Saved Trump Picture"
+'commit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\OVIDIU\Documents\Web_Solent>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   week1/index.html
+
+
+C:\Users\OVIDIU\Documents\Web_Solent>
