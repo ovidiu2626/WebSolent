@@ -11,11 +11,11 @@ In this website i explained about a bit about of coffee base which is ESPRESSO, 
 
 ##WireFrames
 
-![Wireframes images] (wireframes/home)
-![Wireframes images] (wireframes/espresso)
-![Wireframes images] (wireframes/coffeemilk)
-![Wireframes images] (wireframes/gdpr)
-![Wireframes images] (wireframes/contact)
+![Wireframes images] (wireframes/home.jpg)
+![Wireframes images] (wireframes/espresso.jpg)
+![Wireframes images] (wireframes/coffeemilk.jpg)
+![Wireframes images] (wireframes/gdpr.jpg)
+![Wireframes images] (wireframes/contact.jpg)
 
 
 ##Colour Choice
