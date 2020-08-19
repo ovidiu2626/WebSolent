@@ -11,10 +11,10 @@ In this website i explained about a bit about of coffee base which is ESPRESSO, 
 
 ##WireFrames
 
-![Wireframes images] (wireframes/home.jpg)
-![Wireframes images] (wireframes/espresso.jpg)
-![Wireframes images] (wireframes/coffeemilk.jpg)
-![Wireframes images] (wireframes/gdpr.jpg)
+![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/home.jpg)
+![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/espresso.jpg)
+![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/coffeemilk.jpg)
+![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/gdpr.jpg)
 ![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/contact.jpg)
 
 
