@@ -44,4 +44,4 @@ My website does not require any distance selling because i am not selling any pr
 I got inspiration from first assignment.
 I did not encounter any big problem as the teacher was 5 star and i understood from beginner.
 I used Chrome tool names device toolbar to help me test on different screen sizes.
-When i reduce screen i set the break point at 300px the navigation link stuck in top each other.
+When i reduce screen i set the break point at 400px the navigation link stuck in top each other.
