@@ -15,7 +15,7 @@ In this website i explained about a bit about of coffee base which is ESPRESSO, 
 ![Wireframes images] (wireframes/espresso.jpg)
 ![Wireframes images] (wireframes/coffeemilk.jpg)
 ![Wireframes images] (wireframes/gdpr.jpg)
-![Wireframes images] (wireframes/contact.jpg)
+![Wireframes images] (https://github.com/ovidiu2626/WebSolent/blob/master/a2%20html/wireframe/contact.jpg)
 
 
 ##Colour Choice
